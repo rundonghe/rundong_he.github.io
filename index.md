@@ -35,6 +35,5 @@ Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-
 
 1. Normality Learning in Multispace for Video Anomaly Detection. (Yu Zhang, Xiushan Nie, Rundong He, Meng Chen, Yilong Yin) (TCSVT 2020, JCR Q1) [paper](https://ieeexplore.ieee.org/abstract/document/9266126) 
 2. Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. (Zhongyi Han, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin) (IMPI 2021, 医学顶会) [paper](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_47)
-3. Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes (Rundong He, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin) (CICAI 2021)
-4. Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch (AAAI 2022, CCF A)
-
+3. Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes. (Rundong He, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin) (CICAI 2021)
+4. Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch. (Rundong He, Zhongyi Han, Yang Yang, Yilong Yin)(AAAI 2022, CCF A)
