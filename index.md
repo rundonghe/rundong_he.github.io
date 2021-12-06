@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to Rundong He GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rundonghe/rundonghe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![图片描述](图片链接)
+![证件照](/zhengjianzhao.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a Ph.D. candidate (since 2019) in the School of Sofware at Shandong University, advised by Prof. Yilong Yin.
 
-```markdown
-Syntax highlighted code block
+## Research Direction:
 
-# Header 1
-## Header 2
-### Header 3
+Machine Learning; Semi-supervised Learning; Out-of-distribution Detection; Open-world Learning
 
-- Bulleted
-- List
+## Education Experience:
 
-1. Numbered
-2. List
+2015.09-2019.06: B.E. in Shandong University (in Jinan).
+2019.09-present: Ph.D. candidate in Shandong University.
 
-**Bold** and _Italic_ and `Code` text
+## Publications:
 
-[Link](url) and ![Image](src)
-```
+1. Normality Learning in Multispace for Video Anomaly Detection. (Yu Zhang, Xiushan Nie, Rundong He, Meng Chen, Yilong Yin) (TCSVT 2020, JCR Q1) [paper](https://ieeexplore.ieee.org/abstract/document/9266126) 
+2. Semi-Supervised Screening of COVID-19 from Positive and Unlabeled Data with Constraint Non-Negative Risk Estimator. (Zhongyi Han, Rundong He, Tianyang Li, Benzheng Wei, Jian Wang, Yilong Yin) (IMPI 2021, 医学顶会) [paper](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_47)
+3. Robust Anomaly Detection from Partially Observed Anomalies with Augmented Classes (Rundong He, Zhongyi Han, Yu Zhang, Xueying He, Xiushan Nie, Yilong Yin) (CICAI 2021)
+4. Not All Parameters Should be Treated Equally: Deep Safe Semi-Supervised Learning under Class Distribution Mismatch (AAAI 2022, CCF A)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rundonghe/rundonghe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
